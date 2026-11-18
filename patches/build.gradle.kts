@@ -4,10 +4,10 @@ patches {
     about {
         name = "InstaSave Patches"
         description = "Adds a Save/Download option to Instagram posts, reels and stories, and clones the app so it can run alongside the official Instagram."
-        source = "git@github.com:mliem2k/instasave.git"
+        source = "git@github.com:mliemm/instasave.git"
         author = "mliem"
         contact = ""
-        website = "https://github.com/mliem2k/instasave"
+        website = "https://github.com/mliemm/instasave"
         license = "GNU General Public License v3.0"
     }
 }

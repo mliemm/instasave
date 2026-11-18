@@ -72,7 +72,7 @@ public final class Updater {
     // Repository whose releases are checked. GitHub's releases API and asset downloads are
     // unauthenticated only for PUBLIC repos; a private repo answers 404 and the updater stays
     // inert. Change these two constants to point elsewhere.
-    private static final String REPO_OWNER = "mliem2k";
+    private static final String REPO_OWNER = "mliemm";
     private static final String REPO_NAME = "instasave";
 
     private static final String LATEST_RELEASE_API =
